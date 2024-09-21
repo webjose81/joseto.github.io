@@ -22,7 +22,7 @@ Aplicaciones web tarea hosting 1
  </head>
 <!-- Estilo añadido al cuerpo del documento -->
  <body>
-  <h1>Jose Vicente Ojeda Alcami</h1>
+  <h1>Jose Vicente Ojeda </h1>
    <h5>Administrador de Sistemas Informáticos en Red</h5>
     <!-- Estilo añadido a este párrafo -->
     <p><em>Actualmente cursando grado superior de ASIR con amplia experiencia laboral en mantenimiento y creación de redes. En la actualidad estoy buscando un empleo en el que seguir ampliando mi experiencia y que me permita asumir nuevas responsabilidades</em></p>
